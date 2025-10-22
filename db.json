@@ -1,0 +1,36 @@
+{
+  "ingredientsTracker": [
+    {
+      "date": "2025-10-22T04:18:50.555Z",
+      "hotdogIngredients": "bun"
+    },
+    {
+      "date": "2025-10-22T04:18:52.088Z",
+      "hotdogIngredients": "bun"
+    },
+    {
+      "date": "2025-10-22T04:19:05.650Z",
+      "hotdogIngredients": "sausage, bun"
+    },
+    {
+      "date": "2025-10-22T04:19:09.282Z",
+      "hotdogIngredients": "corndog"
+    },
+    {
+      "date": "2025-10-22T04:19:59.219Z",
+      "hotdogIngredients": "corndog"
+    },
+    {
+      "date": "2025-10-22T04:20:06.877Z",
+      "hotdogIngredients": "pig in blanket"
+    },
+    {
+      "date": "2025-10-22T04:20:11.623Z",
+      "hotdogIngredients": "calbasa"
+    },
+    {
+      "date": "2025-10-22T04:23:55.732Z",
+      "hotdogIngredients": "calbasa"
+    }
+  ]
+}
